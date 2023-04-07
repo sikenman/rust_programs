@@ -2,16 +2,15 @@ fn main() {
     const NO_LINES: u8 = 5;
     // Rust supports unicode characters including emoji
     
-    // increasing triangle pattern
+    // increasing right angle triangle pattern
     for x in 1..=NO_LINES {
         for _ in 1..=x {
             print!("⭐");
         }
         println!();
     }
-    
     println!();
-    // decreasing triangle pattern
+    // decreasing right angle triangle pattern
     for x in 1..=NO_LINES {
         for _ in 0..=NO_LINES-x {
             print!("⭐");
