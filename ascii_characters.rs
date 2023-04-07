@@ -23,7 +23,7 @@ fn main() {
             line_break += 1;
         }
         
-        // go out of loop once we reach end of ASCII
+        // Go out of the loop once we reach end of ASCII
         if ascii_code == 256 {
             break;
         }
