@@ -3,6 +3,7 @@ My simple, sample Rust programs to demostrate and use of the Rust programming la
 ## Programs
 * Area of the Cricle
 * ASCII characters (from 32 to 255; but leaving 127 to 160)
+* Division by Zero
 * Finding Weekday of Weekend
 * MegaBall Generator (10 set)
 * Multiplication table of 7, 10 and 13
