@@ -11,6 +11,7 @@ I have created some simple sample Rust programs to demonstrate and utilize many 
 * MegaBall Generator (10 set)
 * Multiplication table of 7, 10 and 13
 * PowerBall Generator (10 set)
+
 * RGB color to Hexadecimal color
 * Reverse the string
 * Student structure (StudID,...)
