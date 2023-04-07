@@ -17,7 +17,7 @@ I have created some simple sample Rust programs that demonstrate and utilize the
 
 [Rust Playground](https://play.rust-lang.org/?version=stable&mode=debug&edition=2021)
 
-[Markdown Cheatsheet] (https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+[Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
-[My Website] (https://siken-dongol.com)
+[My Website](https://siken-dongol.com)
 
