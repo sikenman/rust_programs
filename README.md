@@ -11,6 +11,7 @@ I have created some simple sample Rust programs to demonstrate and utilize many 
 * Multiplication table of 7, 10 and 13
 * PowerBall Generator (10 set)
 * Reverse the string
+* To-Do list (console based)
 * Validates US phone number
 
 ## Online Resources
