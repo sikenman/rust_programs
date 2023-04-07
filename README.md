@@ -12,6 +12,7 @@ I have created some simple sample Rust programs to demonstrate and utilize many 
 * PowerBall Generator (10 set)
 * Reverse the string
 * To-Do list (console based)
+* Triangle star pattern (increasing/decreasing & combined)
 * Validates US phone number
 
 ## Online Resources
