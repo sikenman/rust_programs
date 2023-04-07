@@ -1,0 +1,5 @@
+📅 Program to find Weekday or Weekend
+=====================================
+Enter a day of the week:
+Saturday
+saturday is a Weekend
