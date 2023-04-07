@@ -1,0 +1,4 @@
+(555) 555-1234 is valid: true
+555-555-1234 is valid: true
+1-555-555-1234 is valid: false
+5555551234 is valid: false
