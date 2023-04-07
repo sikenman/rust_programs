@@ -1,0 +1,21 @@
+Enter an RGB value in the format (X,X,X): (33,66,99)
+["33", "66", "99"]
+The rgb(33,66,99) => #214263
+
+Enter an RGB value in the format (X,X,X): 55,89,215)
+["55", "89", "215"]
+The rgb55,89,215) => #3759D7
+
+Enter an RGB value in the format (X,X,X): (66,99,128
+["66", "99", "128"]
+The rgb(66,99,128 => #426380
+
+Enter an RGB value in the format (X,X,X): (256,90,122)
+["256", "90", "122"]
+thread 'main' panicked at 'called `Result::unwrap()` on an `Err` value: ParseIntError { kind: PosOverflow }', /tmp/kYb94KOJlc/main.rs:21:52
+note: run with `RUST_BACKTRACE=1` environment variable to display a backtrace
+
+Enter an RGB value in the format (X,X,X): (a,100,125)
+["a", "100", "125"]
+thread 'main' panicked at 'called `Result::unwrap()` on an `Err` value: ParseIntError { kind: InvalidDigit }', /tmp/kYb94KOJlc/main.rs:21:52
+note: run with `RUST_BACKTRACE=1` environment variable to display a backtrace
