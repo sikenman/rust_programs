@@ -1,0 +1,3 @@
+T-Shirt (size: M)
+Jeans (size: L)
+Sweater (size: S)
