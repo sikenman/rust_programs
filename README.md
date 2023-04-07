@@ -3,6 +3,7 @@ I have created some simple sample Rust programs to demonstrate and utilize many 
 ## Programs
 * Area of the Cricle
 * ASCII characters (from 32 to 255; but leaving 127 to 160)
+* Data types in Rust
 * Division by Zero
 * Enum in Rust
 * Finding Weekday of Weekend
