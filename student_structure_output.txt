@@ -1,3 +1,5 @@
+*** Sorted by Name: ***
+
 ID     : 00101
 Name   : Amit Brown
 Email  : amit_brown@example.com
@@ -7,6 +9,23 @@ ID     : 00100
 Name   : Bob Smith
 Email  : bob.smith@example.com
 Contact: (555) 1234-3250
+
+ID     : 00102
+Name   : Zack Lee
+Email  : lee.bobby@example.com
+Contact: (420) 1234-4455
+
+*** Sorted by ID: ***
+
+ID     : 00100
+Name   : Bob Smith
+Email  : bob.smith@example.com
+Contact: (555) 1234-3250
+
+ID     : 00101
+Name   : Amit Brown
+Email  : amit_brown@example.com
+Contact: (651) 555-4433
 
 ID     : 00102
 Name   : Zack Lee
