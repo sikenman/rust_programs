@@ -1,0 +1,8 @@
+⚠️ Program to demo Division by Zero
+=====================================
+Enter first number: 
+1000
+Enter second number: 
+0
+thread 'main' panicked at 'Division by zero', /tmp/hyo0ePm2x3/main.rs:16:9
+note: run with `RUST_BACKTRACE=1` environment variable to display a backtrace
