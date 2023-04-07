@@ -1,0 +1,13 @@
+Character is ⭐
+Boolean value is true
+Boolean value is false
+
+Integer is 1024
+Unsigned 8-bit integer is 255
+Unsigned 16-bit integer is 65535
+Signed 64-bit integer is -9223372036854775808
+
+Single-precision float is 3.1415927
+Double-precision float is 3.141592653589793
+
+String is 🌎 Hello to Rust!
