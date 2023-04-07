@@ -1,4 +1,5 @@
 fn main() {
+    
     let mut ascii_code = 32;    // 32 is for space
     let mut line_break = 0;
     
@@ -21,10 +22,10 @@ fn main() {
         } else {
             line_break += 1;
         }
+        
         // go out of loop once we reach end of ASCII
         if ascii_code == 256 {
             break;
         }
-
     }
 }
