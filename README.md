@@ -13,6 +13,7 @@ I have created some simple sample Rust programs to demonstrate and utilize many 
 * PowerBall Generator (10 set)
 * RGB color to Hexadecimal color
 * Reverse the string
+* Student structure (StudID,...)
 * To-Do list (console based)
 * Triangle star pattern (increasing/decreasing & combined)
 * Validates US phone number
