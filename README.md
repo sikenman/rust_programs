@@ -3,8 +3,9 @@ My simple, sample Rust programs to demostrate and use of the Rust programming la
 ## Programs
 * Area of the Cricle
 * ASCII characters (from 32 to 255; but leaving 127 to 160)
-* PowerBall Generator (10 set)
+* Finding Weekday of Weekend
 * MegaBall Generator (10 set)
 * Multiplication table of 7, 10 and 13
 * Maximum and minium number in the array
-* Finding Weekday of Weekend
+* PowerBall Generator (10 set)
+* Validates US phone number
