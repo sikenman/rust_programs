@@ -17,6 +17,6 @@ fn main() {
         
         let selected_power_ball = *_power_ball.choose(&mut rng).unwrap();
         
-        println!("WBs {:?}, PB ({})", selected_white_balls, selected_power_ball);
+        println!("WBs {:?}, PB ({selected_power_ball})", selected_white_balls);
     }
 }
