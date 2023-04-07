@@ -1,5 +1,5 @@
 # My Rust Programs
-My simple, sample Rust programs to demostrate and use of the Rust programming language
+I have created some simple sample Rust programs that demonstrate and utilize the many features of the Rust programming language."
 ## Programs
 * Area of the Cricle
 * ASCII characters (from 32 to 255; but leaving 127 to 160)
@@ -11,3 +11,7 @@ My simple, sample Rust programs to demostrate and use of the Rust programming la
 * PowerBall Generator (10 set)
 * Reverse the string
 * Validates US phone number
+
+## Online Resources
+[Rust Online Compiler (free)](https://www.programiz.com/rust/online-compiler/)
+[Rust Playground](https://play.rust-lang.org/?version=stable&mode=debug&edition=2021)
