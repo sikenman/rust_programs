@@ -1,5 +1,5 @@
 # My Rust Programs
-I have created some simple sample Rust programs that demonstrate and utilize the many features of the Rust programming language."
+I have created some simple sample Rust programs to demonstrate and utilize many features of the Rust programming language. Anybody can learn Rust by going through the sample codes.
 ## Programs
 * Area of the Cricle
 * ASCII characters (from 32 to 255; but leaving 127 to 160)
