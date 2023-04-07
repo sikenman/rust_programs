@@ -20,6 +20,10 @@ fn sort_students_by_name(students: &mut [Student]) {
     students.sort_by(|a, b| a.first_name.cmp(&b.first_name));
 }
 
+fn sort_students_by_id(students: &mut [Student]) {
+    students.sort_by(|a, b| a.stud_id.cmp(&b.stud_id));
+}
+
 fn main() {
     let mut students = vec![
         Student {
@@ -43,10 +47,17 @@ fn main() {
             contact_no: String::from("(651) 555-4433"),
         },
     ];
-
+    
     sort_students_by_name(&mut students);
-
-    for student in students {
+    println!("*** Sorted by Name: ***");
+    for student in &students {
+        println!("{}", student);
+    }
+    println!();
+    
+    sort_students_by_id(&mut students);
+    println!("*** Sorted by ID: ***");
+    for student in &students {
         println!("{}", student);
     }
 }
