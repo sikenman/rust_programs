@@ -26,7 +26,8 @@ fn main() {
     }
 
     // Convert the RGB value to a hexadecimal string
-    let hex = format!("#{:X}{:X}{:X}", rgb[0], rgb[1], rgb[2]);
-
+    //{:02X} makes sure one digit get 0 padding; eg. 2 -> 02
+    let hex = format!("#{:02X}{:02X}{:02X}", rgb[0], rgb[1], rgb[2]);
+    
     println!("The rgb{} => {}", input.trim(), hex);
 }
