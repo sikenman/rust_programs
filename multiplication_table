@@ -1,10 +1,11 @@
 fn main() {
-    multable(7);
-    multable(10);
-    multable(13);
+    multiplication_table(7);
+    multiplication_table(10);
+    multiplication_table(13);
 }
 
-fn multable(num: i32) {
+// function name is is a snake case (snake case is a convention in Rust)
+fn multiplication_table(num: i32) {
     for no in 1..11 {
        println!("{num} x {no} = {}",num*no);
    }
