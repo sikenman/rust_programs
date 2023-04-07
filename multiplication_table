@@ -1,0 +1,12 @@
+fn main() {
+    multable(7);
+    multable(10);
+    multable(13);
+}
+
+fn multable(num: i32) {
+    for no in 1..11 {
+       println!("{num} x {no} = {}",num*no);
+   }
+   println!(" ");
+}
