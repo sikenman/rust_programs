@@ -1,0 +1,2 @@
+Original: 🌏 Hello World !!
+Reversed: !! dlroW olleH 🌏
