@@ -4,6 +4,7 @@ I have created some simple sample Rust programs to demonstrate and utilize many 
 * Area of the Cricle
 * ASCII characters (from 32 to 255; but leaving 127 to 160)
 * Division by Zero
+* Enum in Rust
 * Finding Weekday of Weekend
 * Maximum and minium number in the array
 * MegaBall Generator (10 set)
