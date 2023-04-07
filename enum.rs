@@ -1,12 +1,12 @@
-struct ClothingItem {
-    name: String,
-    size: ClothingSize,
-}
-
 enum ClothingSize {
     Small,
     Medium,
     Large,
+}
+
+struct ClothingItem {
+    name: String,
+    size: ClothingSize,
 }
 
 impl std::fmt::Display for ClothingSize {
