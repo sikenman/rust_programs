@@ -1,0 +1,2 @@
+Minimum number: -4
+Maximum number: 99
