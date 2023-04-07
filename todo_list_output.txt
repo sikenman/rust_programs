@@ -1,0 +1,36 @@
+Enter a task (or enter END to quit):
+write email
+📜 To-do List:
+===============
+ - write email
+Enter a task (or enter END to quit):
+go shopping
+📜 To-do List:
+===============
+ - go shopping
+ - write email
+Enter a task (or enter END to quit):
+make coffee
+📜 To-do List:
+===============
+ - go shopping
+ - make coffee
+ - write email
+Enter a task (or enter END to quit):
+visit doctor
+📜 To-do List:
+===============
+ - go shopping
+ - make coffee
+ - visit doctor
+ - write email
+Enter a task (or enter END to quit):
+END
+Goodbye!
+
+📜 To-do List:
+===============
+ - go shopping
+ - make coffee
+ - visit doctor
+ - write email
