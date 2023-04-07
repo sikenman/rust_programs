@@ -13,7 +13,7 @@ fn main() {
         }
         
         print!("{} ", ascii_char);
-        ascii_code += 1;
+        ascii_code += 1;    // Rust does not have ++ operator 
         
         // break line after printing 15 characters
         if line_break==15 {
