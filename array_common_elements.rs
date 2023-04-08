@@ -4,12 +4,10 @@ fn main() {
     let array2 = [69, 555, 1024, 1, 125, 1111, 720, 747];
 
     let result = find_common_elements(&array1, &array2);
-
     println!("Common elements: {:?}", result);
 }
 
-
-fn find_common_elements(array1: &[u16], array2: &[u16]) -> Vec<u16>{
+fn find_common_elements(array1: &[u16], array2: &[u16]) -> Vec<u16> {
 
     let mut common_elements = Vec::new(); // empty vector array
 
