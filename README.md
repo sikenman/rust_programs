@@ -16,10 +16,13 @@ I have created some simple sample Rust programs to demonstrate and utilize many 
 * Multiplication table of 7, 10 and 13
 * PowerBall Generator (10 set)
 * RGB color to Hexadecimal color
+* Regular Expression pattern matching
 * Reverse the string
 * Student structure (StudID,...)
 * To-Do list (console based)
 * Triangle star pattern (increasing/decreasing & combined)
+* Trigonometry (sin, cos, tan, ln)
+
 * Validates US phone number
 
 ## Online Resources
