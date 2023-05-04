@@ -6,23 +6,23 @@ to calculate the sine, cosine, tangent, and natural logarithm of some numbers.
 use std::f64::consts::PI;
 
 fn main() {
-    let x: f64 = 2.0;
-    let y: f64 = 3.0;
-    let z: f64 = 4.0;
+    let x: f64 = PI/2.0;
+    let y: f64 = PI/3.0;
+    let z: f64 = PI/6.0;
 
+    println!("pi = {}", PI);
     println!("sin({}) = {}", x, x.sin());
     println!("cos({}) = {}", y, y.cos());
     println!("tan({}) = {}", z, z.tan());
-    println!("log({}) = {}", x * y * z, (x * y * z).ln());
-    println!("pi = {}", PI);
+    println!("log({}) = {}", 100.0 * x * y * z, (100.0 * x * y * z).ln());
 }
 
 /* Output of the program
 
-sin(1.5707963267948966) = 1
-cos(1.5707963267948966) = 0.00000000000000006123233995736766
-tan(1.0471975511965976) = 1.7320508075688767
-log(2.5838563900249847) = 0.9492830077602001
 pi = 3.141592653589793
+sin(1.5707963267948966) = 1
+cos(1.0471975511965976) = 0.5000000000000001
+tan(0.5235987755982988) = 0.5773502691896257
+ log(86.12854633416615) = 4.455840905080182
 
 */
