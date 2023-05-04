@@ -9,9 +9,10 @@ I have created some simple sample Rust programs to demonstrate and utilize many 
 * Data types in Rust
 * Division by Zero
 * Enum in Rust
+* Feet and inch to Centimeter (using function)
 * Finding Weekday of Weekend
-* Maximum and minium number in the array
 
+* Maximum and minium number in the array
 * MegaBall Generator (10 set)
 * Multiplication table of 7, 10 and 13
 * PowerBall Generator (10 set)
@@ -21,8 +22,8 @@ I have created some simple sample Rust programs to demonstrate and utilize many 
 * Student structure (StudID,...)
 * To-Do list (console based)
 * Triangle star pattern (increasing/decreasing & combined)
-* Trigonometry (sin, cos, tan, ln)
 
+* Trigonometry (sin, cos, tan, ln)
 * Validates US phone number
 
 ## Online Resources
